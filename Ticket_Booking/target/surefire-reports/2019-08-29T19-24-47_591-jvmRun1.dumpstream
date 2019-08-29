@@ -1,0 +1,234 @@
+# Created at 2019-08-29T19:26:14.973
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-08-29T19:26:16.423
+Unexpected IOException with stream: [
+
+# Created at 2019-08-29T19:26:16.429
+Unexpected IOException with stream: 1
+
+# Created at 2019-08-29T19:26:16.430
+Unexpected IOException with stream: 5
+
+# Created at 2019-08-29T19:26:16.432
+Unexpected IOException with stream: 6
+
+# Created at 2019-08-29T19:26:16.433
+Unexpected IOException with stream: 7
+
+# Created at 2019-08-29T19:26:16.434
+Unexpected IOException with stream: 0
+
+# Created at 2019-08-29T19:26:16.435
+Unexpected IOException with stream: 8
+
+# Created at 2019-08-29T19:26:16.436
+Unexpected IOException with stream: 6
+
+# Created at 2019-08-29T19:26:16.437
+Unexpected IOException with stream: 9
+
+# Created at 2019-08-29T19:26:16.438
+Unexpected IOException with stream: 7
+
+# Created at 2019-08-29T19:26:16.439
+Unexpected IOException with stream: 6
+
+# Created at 2019-08-29T19:26:16.441
+Unexpected IOException with stream: .
+
+# Created at 2019-08-29T19:26:16.442
+Unexpected IOException with stream: 4
+
+# Created at 2019-08-29T19:26:16.443
+Unexpected IOException with stream: 2
+
+# Created at 2019-08-29T19:26:16.444
+Unexpected IOException with stream: 1
+
+# Created at 2019-08-29T19:26:16.445
+Unexpected IOException with stream: ]
+
+# Created at 2019-08-29T19:26:16.446
+Unexpected IOException with stream: [
+
+# Created at 2019-08-29T19:26:16.447
+Unexpected IOException with stream: W
+
+# Created at 2019-08-29T19:26:16.448
+Unexpected IOException with stream: A
+
+# Created at 2019-08-29T19:26:16.449
+Unexpected IOException with stream: R
+
+# Created at 2019-08-29T19:26:16.451
+Unexpected IOException with stream: N
+
+# Created at 2019-08-29T19:26:16.452
+Unexpected IOException with stream: I
+
+# Created at 2019-08-29T19:26:16.453
+Unexpected IOException with stream: N
+
+# Created at 2019-08-29T19:26:16.454
+Unexpected IOException with stream: G
+
+# Created at 2019-08-29T19:26:16.455
+Unexpected IOException with stream: ]
+
+# Created at 2019-08-29T19:26:16.456
+Unexpected IOException with stream: :
+
+# Created at 2019-08-29T19:26:16.458
+Unexpected IOException with stream:  
+
+# Created at 2019-08-29T19:26:16.459
+Unexpected IOException with stream: T
+
+# Created at 2019-08-29T19:26:16.460
+Unexpected IOException with stream: i
+
+# Created at 2019-08-29T19:26:16.461
+Unexpected IOException with stream: m
+
+# Created at 2019-08-29T19:26:16.462
+Unexpected IOException with stream: e
+
+# Created at 2019-08-29T19:26:16.463
+Unexpected IOException with stream: d
+
+# Created at 2019-08-29T19:26:16.464
+Unexpected IOException with stream:  
+
+# Created at 2019-08-29T19:26:16.465
+Unexpected IOException with stream: o
+
+# Created at 2019-08-29T19:26:16.467
+Unexpected IOException with stream: u
+
+# Created at 2019-08-29T19:26:16.468
+Unexpected IOException with stream: t
+
+# Created at 2019-08-29T19:26:16.469
+Unexpected IOException with stream:  
+
+# Created at 2019-08-29T19:26:16.470
+Unexpected IOException with stream: c
+
+# Created at 2019-08-29T19:26:16.471
+Unexpected IOException with stream: o
+
+# Created at 2019-08-29T19:26:16.473
+Unexpected IOException with stream: n
+
+# Created at 2019-08-29T19:26:16.474
+Unexpected IOException with stream: n
+
+# Created at 2019-08-29T19:26:16.475
+Unexpected IOException with stream: e
+
+# Created at 2019-08-29T19:26:16.477
+Unexpected IOException with stream: c
+
+# Created at 2019-08-29T19:26:16.478
+Unexpected IOException with stream: t
+
+# Created at 2019-08-29T19:26:16.479
+Unexpected IOException with stream: i
+
+# Created at 2019-08-29T19:26:16.480
+Unexpected IOException with stream: n
+
+# Created at 2019-08-29T19:26:16.481
+Unexpected IOException with stream: g
+
+# Created at 2019-08-29T19:26:16.482
+Unexpected IOException with stream:  
+
+# Created at 2019-08-29T19:26:16.484
+Unexpected IOException with stream: t
+
+# Created at 2019-08-29T19:26:16.485
+Unexpected IOException with stream: o
+
+# Created at 2019-08-29T19:26:16.486
+Unexpected IOException with stream:  
+
+# Created at 2019-08-29T19:26:16.487
+Unexpected IOException with stream: C
+
+# Created at 2019-08-29T19:26:16.487
+Unexpected IOException with stream: h
+
+# Created at 2019-08-29T19:26:16.488
+Unexpected IOException with stream: r
+
+# Created at 2019-08-29T19:26:16.489
+Unexpected IOException with stream: o
+
+# Created at 2019-08-29T19:26:16.491
+Unexpected IOException with stream: m
+
+# Created at 2019-08-29T19:26:16.492
+Unexpected IOException with stream: e
+
+# Created at 2019-08-29T19:26:16.493
+Unexpected IOException with stream: ,
+
+# Created at 2019-08-29T19:26:16.494
+Unexpected IOException with stream:  
+
+# Created at 2019-08-29T19:26:16.496
+Unexpected IOException with stream: r
+
+# Created at 2019-08-29T19:26:16.497
+Unexpected IOException with stream: e
+
+# Created at 2019-08-29T19:26:16.497
+Unexpected IOException with stream: t
+
+# Created at 2019-08-29T19:26:16.498
+Unexpected IOException with stream: r
+
+# Created at 2019-08-29T19:26:16.500
+Unexpected IOException with stream: y
+
+# Created at 2019-08-29T19:26:16.500
+Unexpected IOException with stream: i
+
+# Created at 2019-08-29T19:26:16.501
+Unexpected IOException with stream: n
+
+# Created at 2019-08-29T19:26:16.502
+Unexpected IOException with stream: g
+
+# Created at 2019-08-29T19:26:16.503
+Unexpected IOException with stream: .
+
+# Created at 2019-08-29T19:26:16.504
+Unexpected IOException with stream: .
+
+# Created at 2019-08-29T19:26:16.505
+Unexpected IOException with stream: .
+
+# Created at 2019-08-29T19:26:16.505
+Unexpected IOException with stream: 
+
+# Created at 2019-08-29T19:26:16.506
+Unexpected IOException with stream: 
+
+
+# Created at 2019-08-29T19:26:24.527
+Unexpected IOException: 8,1,com.atmecs.booikng.testscripts.LoginPageTest,loginPageTest(com.atmecs.booikng.testscripts.LoginPageTest),null,chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-087'\002C ip: '55.55.52.236'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.100\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CARJUN~1.SAN\005CAppDat...}\002C goog:chromeOptions: {debuggerAddress: localhost:63818}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 9b229ca4d6771936a366530260d3bc7b\000A*** Element info: {Using=xpath\002C value=//input[@value='roundtrip']},null,chrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-087'\002C ip: '55.55.52.236'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.100\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CARJUN~1.SAN\005CAppDat...}\002C goog:chromeOptions: {debuggerAddress: localhost:63818}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 9b229ca4d6771936a366530260d3bc7b\000A*** Element info: {Using=xpath\002C value=//input[@value='roundtrip']},LoginPageTest.loginPageTest:45 \00BB WebDriver chrome not reachable\000A  (Session inf...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=76.0.3809.100)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'ATMECSINLT-087'\002C ip: '55.55.52.236'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_221'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 76.0.3809.100\002C chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4...\002C userDataDir: C:\005CUsers\005CARJUN~1.SAN\005CAppDat...}\002C goog:chromeOptions: {debuggerAddress: localhost:63818}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 9b229ca4d6771936a366530260d3bc7b\000A*** Element info: {Using=xpath\002C value=//input[@value='roundtrip']}\000A\0009at com.atmecs.booikng.testscripts.LoginPageTest.loginPageTest(LoginPageTest.java:45)\000A
+
+
+# Created at 2019-08-29T19:26:24.872
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
