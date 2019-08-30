@@ -15,10 +15,10 @@ public class ChooseFlight extends DriverSetup {
 	
 	@Test(priority = 2)
 	public void flightDetails()  {
-		// driver.get(prop.getProperty("url"));
+	// driver.get(prop.getProperty("url"));
 		// driver.manage().window().maximize();
 		
-		driver.manage().timeouts().implicitlyWait(8, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.findElement(By.xpath(read.getLocater("loc.roundTrip.rbtn"))).click();
 		driver.findElement(By.name(read.getLocater("loc.passengers.dpdn"))).click();
 		{
@@ -65,11 +65,11 @@ public class ChooseFlight extends DriverSetup {
 		driver.findElement(By.name(read.getLocater("loc.returning.day.dpdn"))).click();
 		driver.findElement(By.cssSelector(read.getLocater("loc.serviceClass.economy.rbtn"))).click();
 		driver.findElement(By.cssSelector(read.getLocater("loc.serviceClass.business.rbtn"))).click();
-		driver.findElement(By.cssSelector(read.getLocater("loc.serviceClass.firstClass.rbtn"))).click();
+		driver.findElement(By.xpath(read.getLocater("loc.serviceClass.firstClass.rbtn"))).click();
 		driver.findElement(By.name(read.getLocater("loc.airline.dpdn"))).click();
 		{
 			WebElement dropdown = driver.findElement(By.name(read.getLocater("loc.airline.dpdn")));
-			dropdown.findElement(By.xpath("//option[value = 'Blue Skies Airlines']")).click();
+			dropdown.findElement(By.xpath("//option[text()= 'Blue Skies Airlines']")).click();
 		}
 		driver.findElement(By.name(read.getLocater("loc.airline.dpdn"))).click();
 		driver.findElement(By.name(read.getLocater("loc.continue.btn"))).click();

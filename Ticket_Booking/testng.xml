@@ -4,6 +4,9 @@
   <test thread-count="5" name="Test">
   <classes>
   <class name="com.atmecs.booikng.testscripts.LoginPageTest"/>
+  <class name="com.atmecs.booikng.testscripts.ChooseFlight"/>
+  <class name="com.atmecs.booikng.testscripts.SelectFlightPageTest"/>
+  <class name="com.atmecs.booikng.testscripts.Flight_Book"/>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

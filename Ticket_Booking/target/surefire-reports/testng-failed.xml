@@ -3,13 +3,18 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
   <test thread-count="5" verbose="0" name="Test(failed)">
     <classes>
-      <class name="com.atmecs.booikng.testscripts.LoginPageTest">
+      <class name="com.atmecs.booikng.testscripts.SelectFlightPageTest">
         <methods>
           <include name="selectFlight"/>
           <include name="browserSetup"/>
-          <include name="flightDetails"/>
         </methods>
-      </class> <!-- com.atmecs.booikng.testscripts.LoginPageTest -->
+      </class> <!-- com.atmecs.booikng.testscripts.SelectFlightPageTest -->
+      <class name="com.atmecs.booikng.testscripts.ChooseFlight">
+        <methods>
+          <include name="flightDetails"/>
+          <include name="browserSetup"/>
+        </methods>
+      </class> <!-- com.atmecs.booikng.testscripts.ChooseFlight -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

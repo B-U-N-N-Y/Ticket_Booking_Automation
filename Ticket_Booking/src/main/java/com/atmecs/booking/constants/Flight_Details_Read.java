@@ -10,8 +10,7 @@ public class Flight_Details_Read {
 	static String locater = null;
 
 	public String getLocater(String element) {
-		try (InputStream input = new FileInputStream(
-				"./src/test/resources/locators/flightdetails.properties")) {
+		try (InputStream input = new FileInputStream("./src/test/resources/locators/flightdetails.properties")) {
 
 			Properties prop = new Properties();
 
