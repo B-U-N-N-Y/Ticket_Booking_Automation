@@ -19,7 +19,8 @@ public class FilePath {
 	public final static String TESTDATA_FILE= RESOURCES_HOME+"testdata"+File.separator+"input_testdata.xlsx";
 	public static final String ROUNDTRIP_FILE =LOCATOR_HOME+"round_trip.properties";
 	public static final String ONEWAY_FILE=LOCATOR_HOME+"oneway.properties";
-	public final static String CITYTESTDATA_FILE= RESOURCES_HOME+"testdata"+File.separator+"input_city_testdata.xlsx";
+	public final static String CITYTESTDATA_FILE= RESOURCES_HOME+"testdata"+File.separator+"cityinput.xlsx";
+	public static final String INPUTTESTDATA_FILE = RESOURCES_HOME+"testdata"+File.separator+"testdata.xlsx";
     
 	public static void main(String[] args) {
 		System.out.println(TESTDATA_FILE);

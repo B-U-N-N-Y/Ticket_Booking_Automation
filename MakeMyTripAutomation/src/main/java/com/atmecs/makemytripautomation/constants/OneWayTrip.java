@@ -47,6 +47,9 @@ public class OneWayTrip {
 	private String loc_contact_info_mob_no_text;
 	private String loc_contact_info_email_text;
 	private String loc_flight_details_continue_btn;
+	private String loc_cursorup_btn;
+
+	
 
 	public OneWayTrip() {
 		try {
@@ -90,9 +93,10 @@ public class OneWayTrip {
 		setLoc_contact_info_mob_no_text();
 		setLoc_contact_info_email_text();
 		setLoc_flight_details_continue_btn();
-		setloc_calender_departure_date_btn();
+		setLoc_calender_departure_date_btn();
 		setLoc_to_inputtext();
-		setloc_departure_btn();
+		setLoc_departure_btn();
+		setLoc_cursorup_btn();
 
 	}
 
@@ -160,19 +164,19 @@ public class OneWayTrip {
 		this.loc_search_btn = onewayProperty.getProperty("loc.search.btn");
 	}
 
-	public String getloc_departure_btn() {
+	public String getLoc_departure_btn() {
 		return loc_departure_btn;
 	}
 
-	public void setloc_departure_btn() {
+	public void setLoc_departure_btn() {
 		this.loc_departure_btn = onewayProperty.getProperty("loc.calender.departure.btn");
 	}
 
-	public String getloc_calender_departure_date_btn() {
+	public String getLoc_calender_departure_date_btn() {
 		return loc_calender_departure_date_btn;
 	}
 
-	public void setloc_calender_departure_date_btn() {
+	public void setLoc_calender_departure_date_btn() {
 		this.loc_calender_departure_date_btn = onewayProperty.getProperty("loc.calender.departure_date.btn");
 	}
 
@@ -406,5 +410,12 @@ public class OneWayTrip {
 	public static void main(String[] args) {
 		OneWayTrip details = new OneWayTrip();
 		System.out.println(details.getLoc_continue_btn());
+	}
+	public String getLoc_cursorup_btn() {
+		return loc_cursorup_btn;
+	}
+
+	public void setLoc_cursorup_btn() {
+		this.loc_cursorup_btn = onewayProperty.getProperty("loc.cursorup.btn");
 	}
 }

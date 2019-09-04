@@ -3,14 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.toolsshopautomation.testscripts.Book_OneWay_Ticket">
+      <class name="com.atmecs.makemytripautomation.testscripts.Book_OneWay_Ticket">
         <methods>
-          <include name="travellersDetails"/>
-          <include name="homePage"/>
-          <include name="selectFlightAndReview"/>
+          <include name="travellersDetails" invocation-numbers="0"/>
           <include name="intitailizeBrowser"/>
         </methods>
-      </class> <!-- com.atmecs.toolsshopautomation.testscripts.Book_OneWay_Ticket -->
+      </class> <!-- com.atmecs.makemytripautomation.testscripts.Book_OneWay_Ticket -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
